@@ -1,0 +1,5 @@
+str=input()
+c=input()
+str1=list(str)
+d=str1.count(c)
+print(d)
